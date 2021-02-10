@@ -5,3 +5,6 @@ function myFuncion () {
 function myFuncion2 () {
     alert("Aviso! no hay consulta, no joda!");
 }
+function home () {
+    alert("Ya estas en el Home");
+}
